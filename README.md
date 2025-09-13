@@ -1,6 +1,6 @@
 # Clause – One Tool for Contracts and Team Management  
-
 [![clause.png](https://i.postimg.cc/cJFxR6b6/clause.png)](https://postimg.cc/gw6bdcdP)  
+
 
 ✨ **Live Demo** → [Clause on Netlify](https://clause-tool-for-contracts.netlify.app/)  
 
