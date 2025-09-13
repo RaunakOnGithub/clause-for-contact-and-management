@@ -1,8 +1,4 @@
 # Clause – One Tool for Contracts and Team Management  
-[![clause.png](https://i.postimg.cc/cJFxR6b6/clause.png)](https://postimg.cc/gw6bdcdP)  
-
-
-✨ **Live Demo** → [Clause on Netlify](https://clause-tool-for-contracts.netlify.app/)  
 
 ---
 
@@ -14,7 +10,11 @@ This project was built with **Tailwind CSS** and best practices in responsive we
 It’s not just a landing page—it’s a study in how **color theory** and **UI clarity** can make or break first impressions.  
 
 ---
+[![clause.png](https://i.postimg.cc/cJFxR6b6/clause.png)](https://postimg.cc/gw6bdcdP)  
 
+✨ **Live Demo** → [Clause on Netlify](https://clause-tool-for-contracts.netlify.app/)  
+
+---
 ## 🎨 Color Theory in Action
 We carefully applied color psychology to reinforce the brand’s message:  
 
